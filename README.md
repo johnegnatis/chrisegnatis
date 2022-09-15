@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chrisegnatis
-- 👀 I’m currently interested in a summer internship
 - 🌱   I’m currently learning Computer Science at UTD
 - 📫   chris.egnatis@gmail.com
 - 🌐   https://chrisegnatis.github.io/portfolio/
